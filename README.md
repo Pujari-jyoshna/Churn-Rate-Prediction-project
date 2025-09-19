@@ -1,2 +1,16 @@
-# Churn-Rate-Prediction-project
-Customer Churn Rate Prediction is a machine learning project aimed at identifying customers who are likely to discontinue a service. By analyzing customer demographics, service usage, and billing data, this project helps businesses improve customer retention strategies
+# 📊 Customer Churn Rate Prediction
+
+This project predicts customer churn using machine learning models.
+
+## 🚀 Project Workflow
+1. Data Collection
+2. Exploratory Data Analysis (EDA)
+3. Data Preprocessing
+4. Model Training (Logistic Regression, Random Forest, XGBoost)
+5. Evaluation
+6. Deployment
+
+## Installation
+```bash
+pip install -r requirements.txt
+```

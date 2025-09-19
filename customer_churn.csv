@@ -1,0 +1,9 @@
+CustomerID,Gender,Age,Tenure,InternetService,Contract,MonthlyCharges,Churn
+1001,Female,34,5,DSL,Month-to-month,70,Yes
+1002,Male,45,24,Fiber optic,One year,85,No
+1003,Female,29,2,DSL,Month-to-month,65,Yes
+1004,Male,51,36,DSL,Two year,90,No
+1005,Female,40,12,Fiber optic,Month-to-month,99,Yes
+1006,Male,38,20,DSL,One year,55,No
+1007,Female,28,1,DSL,Month-to-month,68,Yes
+1008,Male,60,48,Fiber optic,Two year,120,No
